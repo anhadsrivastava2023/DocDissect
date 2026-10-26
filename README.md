@@ -91,5 +91,4 @@ ting Excel model probabilities as reliable.
 
 
 ## License
-
-Add the license and attribution details appropriate to your project and the datasets or code you use before publishing or distributing this repository.
+Copyright © 2026 Anhad Srivastava. All rights reserved.
