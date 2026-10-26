@@ -1,0 +1,29 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Temporary scan reports
+scan_report.json
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Temporary diagnostic scripts
+diagnose_*.py
+check_models.py
+inspect_dataset.py
