@@ -22,8 +22,3 @@ scan_report.json
 .env
 .env.*
 !.env.example
-
-# Temporary diagnostic scripts
-diagnose_*.py
-check_models.py
-inspect_dataset.py
